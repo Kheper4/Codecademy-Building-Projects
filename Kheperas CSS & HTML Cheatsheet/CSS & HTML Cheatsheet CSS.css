@@ -1,0 +1,70 @@
+h1 {
+  text-align: center;
+  color: teal;
+  text-decoration: underline;
+  font-family: NiksW01-Bold;
+}
+
+h2 {
+  color: teal;
+  font-family: NiksW01-Bold;
+  text-align: center;
+}
+
+h3 {
+  color: #6600ff;
+  font-family: NiksW01-Bold;
+}
+
+p {
+  color: white;
+  text-align: center;
+}
+
+.p2 {
+  font-size: 20px;
+}
+
+body { 
+  background-image: url('https://live.staticflickr.com/65535/50220558367_7c093e4bbf_b.jpg');
+  background-attachment: fixed;
+  background-position: center center;
+  
+}
+
+table {
+  margin: auto;
+  text-align: center;
+  background-color: black;
+  opacity: 0.70;
+}
+
+td {
+  border: 1px solid #4d4d4d;
+  color: #595959;
+  padding: 20px;
+}
+
+.structure {
+  margin: auto;
+  height: 2870px;
+  max-width: 940px;
+}
+
+.code-value {
+  font-weight: bold;
+  font-family: mensch;
+  color: #6600ff;
+}
+
+.code-value-2 {
+  font-weight: bold;
+  font-family: mensch;
+  color: #595959;
+  font-style: italic;
+}
+
+.footer p {
+  color: teal;
+  font-style: italic;
+}
